@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: snoopy 
-        image: acrdevops.azurecr.io/emcconne/snoopy:v1
+        image: acrdevops.azurecr.io/emcconne/snoopy:v2
         ports:
         - containerPort: 8080
 ---
